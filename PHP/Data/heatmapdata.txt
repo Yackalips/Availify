@@ -1,0 +1,7 @@
+
+Yackalips{
+firstMonthDate:10
+firstDayDate:29
+length:4
+firstDay:Tuesday
+}
